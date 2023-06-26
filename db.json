@@ -1,0 +1,20 @@
+{
+  "student": [
+    {
+      "id": "1915808690",
+      "password": "154561",
+      "studentName": "Amit",
+      "mobileNo": "6265333945",
+      "cource": "Bsc - CS",
+      "profileImg": "https://i.pinimg.com/564x/c0/18/31/c0183163ba468401a02ae53b2665daa1.jpg"
+    },
+    {
+      "id": "1915808692",
+      "password": "154621",
+      "studentName": "Shailendra",
+      "mobileNo": "7049400231",
+      "cource": "B.pharma",
+      "profileImg": "https://i.pinimg.com/236x/f4/73/e8/f473e80e8aa0e4d7a0085b8c49aaeda4.jpg"
+    }
+  ]
+}
